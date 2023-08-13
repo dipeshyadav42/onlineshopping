@@ -1,0 +1,20 @@
+/* #header{
+  background-image: url("flower2.jpeg");
+} */
+#reg{
+  display: flex;
+  height: 600px;
+  align-items: center;
+}
+#reg h2{
+  text-align: center;
+}
+#reg h2{
+font-family: 'Orbitron', sans-serif;
+color:#5D6D7E ;
+font-weight: bolder;
+}
+#reg h2 i{
+  color: red;
+}
+
